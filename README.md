@@ -20,7 +20,12 @@ This continues until the player guesses the number correctly, at which point the
 Take Away Skills
 
 Variables:	Storing and updating values like guessed_number and right_number.
+
 Loops:	Letting the game keep running until the player guesses correctly.
+
 Conditionals:	Checking the player's guess and deciding what to do next.
+
 Modules:	Using Python's random module to make the game unpredictable.
+
 User Experience:	Giving helpful hints and keeping the player engaged.
+
